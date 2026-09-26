@@ -181,5 +181,17 @@ Department of Electronics and Communication Engineering
 Lendi Institute of Engineering & Technology, Vizianagaram, India
 
 🔑 Keywords
-
+MIT-BIH Arrhythmia Database
+ECG
+Arrhythmia Detection
+MODWPT
+Wavelet Transform
+ECG Feature Extraction
+QRS Complex
+RR Interval
+HRV
+MATLAB
+Biomedical Signal Processing
+Machine Learning
+Deep Learning
 MIT-BIH Arrhythmia · ECG · Arrhythmia Detection · MODWPT · Wavelet Transform · ECG Feature Extraction · RR Interval · QRS Complex · HRV · MATLAB · Biomedical Signal Processing · Machine Learning
